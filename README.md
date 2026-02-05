@@ -17,3 +17,9 @@
 
  ![Image](https://github.com/user-attachments/assets/41d1d4ae-1f02-44ed-91d9-b5a0c01b6d94)
 </div>
+<p align="center">
+hai, im jimmy, jimmima or whatever i feel like!
+</p>
+<p align="center">
+i use she/him prns! i have adhd and bpd and im really bad at being social. please do not come up to me when im with friends, its hard for me to focus...
+</p>
