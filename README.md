@@ -1,3 +1,7 @@
+<div align="center">
+ur own personal jesus
+</div>
+
 
 
 <div align="center">
@@ -19,7 +23,4 @@
 </div>
 <p align="center">
 hai, im jimmy, jimmima or whatever i feel like!
-</p>
-<p align="center">
-i use she/him prns! i have adhd and bpd and im really bad at being social. please do not come up to me when im with friends, its hard for me to focus...
 </p>
