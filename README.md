@@ -1,12 +1,13 @@
 <div align="center">
-ur own personal jesus
+ 
+ $\small\color{#290628}{\textsf{ur own personal jesus}}$
 </div>
 
 
 
 <div align="center">
  
-  ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=jimmycrystal)
+  ![jimmys](https://komarev.com/ghpvc/?username=jimmycrystal)
 </div>
 
 
@@ -22,5 +23,5 @@ ur own personal jesus
  ![Image](https://github.com/user-attachments/assets/41d1d4ae-1f02-44ed-91d9-b5a0c01b6d94)
 </div>
 <p align="center">
-hai, im jimmy, jimmima or whatever i feel like!
+ $\small\color{#290628}{\textsf{hai, im jimmy, jimmima or whatever i feel like!}}$
 </p>
