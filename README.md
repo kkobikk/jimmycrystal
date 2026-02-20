@@ -1,6 +1,6 @@
 <div align="center">
  
- $\small\color{#290628}{\textsf{ur own personal jesus}}$
+ $\small\color{#90e0ef}{\textsf{youre  a  big  girl  now !}}$
 </div>
 
 
@@ -20,8 +20,8 @@
 
 <div align="center">
 
- ![Image](https://github.com/user-attachments/assets/41d1d4ae-1f02-44ed-91d9-b5a0c01b6d94)
+ ![Image]([https://github.com/user-attachments/assets/41d1d4ae-1f02-44ed-91d9-b5a0c01b6d94](https://files.catbox.moe/hyvzb8.jpg))
 </div>
 <p align="center">
- $\small\color{#290628}{\textsf{hai, im jimmy, jimmima or whatever i feel like!}}$
+ $\small\color{#90e0ef}{\textsf{i luv kobik !! }}$
 </p>
