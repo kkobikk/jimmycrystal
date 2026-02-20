@@ -20,7 +20,7 @@
 
 <div align="center">
 
- ![Image]([https://github.com/user-attachments/assets/41d1d4ae-1f02-44ed-91d9-b5a0c01b6d94](https://files.catbox.moe/hyvzb8.jpg))
+ ![Image](https://github.com/jimmycrystal/jimmycrystal/blob/main/2856ee27a392fb54c6bee0ded0742184.jpg)
 </div>
 <p align="center">
  $\small\color{#90e0ef}{\textsf{i luv kobik !! }}$
